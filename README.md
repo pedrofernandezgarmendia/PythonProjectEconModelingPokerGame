@@ -1,2 +1,2 @@
-#Po kergame
+# Pokergame
 ## Sessions 3-4
